@@ -19,6 +19,9 @@ Saves applicant details in a file for record-keeping.
 # How to Run
 Compile the code using a C++ compiler (g++ or MSVC).
 
-Run the executable and follow the on-screen menu.
+![image](https://github.com/user-attachments/assets/af6cd86b-d1a6-4852-b1eb-6a8fa897de55)
+![image](https://github.com/user-attachments/assets/be224a49-d11c-4db5-b815-9681fe7c3efe)
+
+
 
 Applications will be processed in priority order, with up to 4 running in parallel.
