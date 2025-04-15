@@ -19,8 +19,13 @@ Saves applicant details in a file for record-keeping.
 # How to Run
 Compile the code using a C++ compiler (g++ or MSVC).
 
-![image](https://github.com/user-attachments/assets/af6cd86b-d1a6-4852-b1eb-6a8fa897de55)
-![image](https://github.com/user-attachments/assets/be224a49-d11c-4db5-b815-9681fe7c3efe)
+![image](https://github.com/user-attachments/assets/da421458-88c4-4e22-803c-2dd8ff438f1c)
+
+![image](https://github.com/user-attachments/assets/6bb205e6-f2ee-4f8d-af37-06f539ca07f8)
+
+![image](https://github.com/user-attachments/assets/fb79b689-62b8-4bce-8912-4ba4399340cc)
+![image](https://github.com/user-attachments/assets/27f646c9-6322-4478-bb2a-fa3b3799827e)
+
 
 
 
